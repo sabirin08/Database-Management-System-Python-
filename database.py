@@ -15,7 +15,7 @@ database = {
         {'Name': 'Taylor Swift', 'ID': '654321', 'Age': 22, 'Year': 'Senior', 'Eye color': 'Gray'}
     ],
     'schedule': [
-        {'Course': 'CSC 1301', 'Instructor': 'Faris Hawamdeh', 'Age': 29, 'Classroom': 'Aderhold 024', 'Office': '55 Park Place'},
+        {'Course': 'CSC 1301', 'Instructor': 'Reggy Fernbank', 'Age': 29, 'Classroom': 'Aderhold 024', 'Office': '55 Park Place'},
         {'Course': 'MATH 1113', 'Instructor': 'Johnny Dunk', 'Age': 30, 'Classroom': 'Classroom South 129', 'Office': '25 Park Place'},
         {'Course': 'ENGL 2101', 'Instructor': 'Barbara Hanes', 'Age': 54, 'Classroom': 'Langdale Hall 312','Office': '69 Park Place' },
         {'Course': 'SCOM 2211', 'Instructor': 'Martha Stewart', 'Age': 42, 'Classroom': 'Sparks Hall 265', 'Office': '55 Park Place'},
